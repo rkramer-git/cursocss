@@ -5,6 +5,10 @@
     text-align: center;
 }
 
+a {
+    text-align: left;
+}
+
 h2 {
     color: rgb(105, 33, 33);
     text-align: justify;
